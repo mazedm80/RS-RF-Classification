@@ -7,7 +7,7 @@ Supervised Classification of Sentinel-2 raster data in R using Random Forest alg
 For Accuracy of the RF model is calculated manually using groundtruth data using 100 random points. The file [errormatrix.xlsx](results/errormatrix.xlsx) explains all the formula for calculating the accuracy.
 
 ### The cross table for accuracy assesment looks like below:
-![](results/accuracy.png)
+![](results/Accuracy.png)
 
 _Overall Accuracy = 71%_
 </br>
